@@ -1,32 +1,32 @@
 {
-  "name": "discord-canvas-greetings",
-  "version": "1.3.2",
-  "description": "A package to simplifie the usage of canvas for Discord !",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xImpulso/discord-canvas-greetings"
-  },
-  "keywords": [
-    "Discord.js",
-    "Canvas",
-    "Welcome"
-  ],
-  "author": "xixi52",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/xImpulso/discord-canvas-greetings/issues"
-  },
-  "homepage": "https://github.com/xImpulso/discord-canvas-greetings#readme",
-  "dependencies": {
-    "canvas": "^2.6.1"
-  },
-  "devDependencies": {
-    "eslint": "^8.15.0",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-prettier": "^4.0.0",
-    "prettier": "^2.6.2"
-  }
+    "name": "@xImpulso/discord-canvas",
+    "version": "1.3.2",
+    "description": "A package to simplifie the usage of canvas for Discord !",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xImpulso/discord-canvas-greetings"
+    },
+    "keywords": [
+        "Discord.js",
+        "Canvas",
+        "Welcome"
+    ],
+    "author": "xixi52",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/xImpulso/discord-canvas-greetings/issues"
+    },
+    "homepage": "https://github.com/xImpulso/discord-canvas-greetings#readme",
+    "dependencies": {
+        "canvas": "^2.6.1"
+    },
+    "devDependencies": {
+        "eslint": "^8.15.0",
+        "eslint-config-airbnb-base": "^15.0.0",
+        "eslint-config-prettier": "^8.5.0",
+        "eslint-plugin-import": "^2.26.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "prettier": "^2.6.2"
+    }
 }
