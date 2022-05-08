@@ -3,5 +3,9 @@ node_modules/
 package-lock.json
 yarn.lock
 
+# ESLint + Prettier
+.eslintrc.json
+.prettierrc.json
+
 # Tests
 tests/

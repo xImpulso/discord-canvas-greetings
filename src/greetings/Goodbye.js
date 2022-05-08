@@ -1,10 +1,10 @@
-const Greeting = require("./Base");
+const Greeting = require('../Base');
 
 module.exports = class Goodbye extends Greeting {
     constructor() {
         super();
-        this.textTitle = "GOODBYE";
-        this.textMessage = "Leaving {server}";
-        this.colorTitle = "#df0909";
+        this.textMessage = 'Leaving {server}';
+        this.textTitle = 'GOODBYE';
+        this.colorTitle = '#df0909';
     }
 };
