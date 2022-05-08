@@ -1,5 +1,5 @@
 {
-    "name": "@xImpulso/discord-canvas",
+    "name": "@ximpulso/discord-canvas",
     "version": "1.0.0",
     "description": "A package to simplifie the usage of canvas for Discord !",
     "main": "index.js",
